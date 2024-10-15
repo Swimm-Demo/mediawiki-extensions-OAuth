@@ -1,6 +1,7 @@
 ---
-title: Managing OAuth Consumers
+title: OAuth Manage Consumers Page
 ---
+
 # Overview
 
 <SwmToken path="src/Frontend/SpecialPages/SpecialMWOAuthManageConsumers.php" pos="53:2:2" line-data="class SpecialMWOAuthManageConsumers extends SpecialPage {">`SpecialMWOAuthManageConsumers`</SwmToken> is a special page designed to manage `OAuth` consumer requests. It allows administrators to view, approve, reject, or disable consumer applications. The page categorizes consumer requests into different stages, such as proposed, rejected, expired, approved, and disabled. These stages help in organizing the requests into actionable queues or lists.
@@ -62,6 +63,6 @@ graph TD;
 
 &nbsp;
 
-*This is an auto-generated document by Swimm 🌊 and has not yet been verified by a human*
+_This is an auto-generated document by Swimm 🌊 and has not yet been verified by a human_
 
 <SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBbWVkaWF3aWtpLWV4dGVuc2lvbnMtT0F1dGglM0ElM0FTd2ltbS1EZW1v" repo-name="mediawiki-extensions-OAuth"><sup>Powered by [Swimm](https://app.swimm.io/)</sup></SwmMeta>

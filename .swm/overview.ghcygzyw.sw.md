@@ -35,7 +35,7 @@ graph TD;
 
 ## Frontend
 
-- **Ui hooks**
+- **UI Hooks**
   - <SwmLink doc-title="Understanding UI Hooks">[Understanding UI Hooks](/.swm/understanding-ui-hooks.6l02vm1n.sw.md)</SwmLink>
 - **Pagers**
   - <SwmLink doc-title="Usage of Pagers">[Usage of Pagers](/.swm/usage-of-pagers.9ae2nabu.sw.md)</SwmLink>
