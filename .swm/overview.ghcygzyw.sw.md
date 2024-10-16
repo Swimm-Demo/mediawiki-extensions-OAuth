@@ -47,7 +47,7 @@ graph TD;
     - <SwmLink doc-title="OAuth Consumer Management Overview">[OAuth Consumer Management Overview](/.swm/oauth-consumer-management-overview.dz3c4qi6.sw.md)</SwmLink>
     - <SwmLink doc-title="Executing the Main Flow">[Executing the Main Flow](/.swm/executing-the-main-flow.8teffz74.sw.md)</SwmLink>
   - **Specialmwo auth manage consumers**
-    - <SwmLink doc-title="Managing OAuth Consumers">[Managing OAuth Consumers](/.swm/managing-oauth-consumers.7h2sg899.sw.md)</SwmLink>
+    - <SwmLink doc-title="OAuth Manage Consumers Page">[OAuth Manage Consumers Page](/.swm/oauth-manage-consumers-page.7h2sg899.sw.md)</SwmLink>
     - <SwmLink doc-title="Managing OAuth Consumers">[Managing OAuth Consumers](/.swm/managing-oauth-consumers.z1h3ci5e.sw.md)</SwmLink>
 
 ### Backend Services
